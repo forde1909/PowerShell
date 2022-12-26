@@ -1,0 +1,1 @@
+﻿Dir | Format-Table | Out-Host
