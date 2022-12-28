@@ -1,0 +1,16 @@
+CPU:	<CPU>
+Memory:	<Memory>
+Volumes:	<Volumes>
+Free Space:	<Free Space>
+OS Version:	<OS Version>
+System Type:	<System Type>
+
+
+Host Name:	<Host Name>
+Default Gateway:	<Default Gateway>
+DHCP Server:	<DHCP Server>
+DNS Server:	<DNS Server>
+IP Address:	<IP Address>
+Subnet Mask:	<Subnet Mask>
+MAC Address:	<MAC Address>
+
